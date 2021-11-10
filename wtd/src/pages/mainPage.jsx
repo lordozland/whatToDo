@@ -2,8 +2,8 @@ import React from 'react';
 
 const mainPage = () => {
     return (
-        <div className='App'>
-            <h1>mainPage</h1>
+        <div className='mainPage'>
+            <div>Hello!</div>
         </div>
     )
 }

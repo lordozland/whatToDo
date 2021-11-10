@@ -1,4 +1,9 @@
-.App {
+* {
+  font-family: 'Crimson Text', serif;
+}
+
+
+.mainPage {
   text-align: center;
 }
 
