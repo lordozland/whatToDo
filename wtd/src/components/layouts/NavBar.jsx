@@ -20,7 +20,7 @@ const NavBar = () => {
                 <a class="hover:text-blue-800" href="/">Link</a>
             </li>
             <li class="mr-6">
-                <a class="hover:text-blue-800" href="/">Disabled</a>
+                <a class="hover:text-blue-800" href="/">Abled</a>
             </li>
             </ul>
         </div>
